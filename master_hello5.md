@@ -1,10 +1,9 @@
 ## hello git
 
-<<<<<<< HEAD
-- hello4
-=======
-branch2 - hello2
->>>>>>> branch2
+
+- master - hello5
+
+
 
 ## git 명령어 요약
 
