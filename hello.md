@@ -1,6 +1,6 @@
 ## hello git
 
-- hello2
+- hello3
 
 ## git 명령어 요약
 
